@@ -1,1 +1,2 @@
 adding this text is just a placeholder for being able to commit this file again for test purposes.
+add egenPortfolio
